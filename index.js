@@ -10,10 +10,7 @@ console.log('Starting ddos attack');
 function ddos(webiste) {
   webiste = 'riverside.rocks'
   console.log(`Sent 64 Packets from ${proxy} to https://${webiste}`)
-}
-
-while(true) {
-console.log("ddosing the improster!!!!!!!!!")
+  console.log("ddosing the improster!!!!!!!!!")
 }
 
 setInterval(ddos);
